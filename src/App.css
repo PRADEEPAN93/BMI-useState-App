@@ -69,16 +69,16 @@ button {
 }
 
 button:hover {
-  background-color: #2980b9;
+  background-color: #1a9df5;
 }
 
 /* CLEAR BUTTON */
 .data button:nth-of-type(2) {
-  background-color: #e74c3c;
+  background-color: #9c1104;
   margin-left: 10px;
 }
 .data button:nth-of-type(2):hover {
-  background-color: #c0392b;
+  background-color: #f38b04;
 }
 
 /* RESULT BOX */
